@@ -5,6 +5,7 @@ This project is created using pure HTML.
 ## Result
 
 Check out here! :smile:
+
 :link: <https://lyzanderandrylie.github.io/odin-recipes/>
 
 ## Requirements
